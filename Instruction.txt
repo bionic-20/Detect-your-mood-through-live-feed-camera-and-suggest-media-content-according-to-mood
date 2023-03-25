@@ -1,0 +1,5 @@
+For UI you need to install PyQt5 package
+
+Its a deep learning algorithm. 
+ 
+Just go through the codes for better understanding modules, Dataset and packages
